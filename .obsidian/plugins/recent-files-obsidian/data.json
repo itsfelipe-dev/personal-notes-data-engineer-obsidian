@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Spark Streaming",
+      "path": "Apache Spark and Python/Spark Streaming.md"
+    },
+    {
+      "basename": "Dataframe Spark",
+      "path": "Apache Spark and Python/Dataframe Spark.md"
+    },
+    {
+      "basename": "RDD-spark",
+      "path": "Apache Spark and Python/RDD-spark.md"
+    },
+    {
+      "basename": "What is a data lake house",
+      "path": "Databricks LakeHouse fundamentals/What is a data lake house.md"
+    },
+    {
+      "basename": "Data lake",
+      "path": "Databricks LakeHouse fundamentals/Data lake.md"
+    },
+    {
+      "basename": "Delta Lake",
+      "path": "Databricks LakeHouse fundamentals/Delta Lake.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Databricks LakeHouse fundamentals/Data Warehouse.md"
+    },
+    {
+      "basename": "Databricks",
+      "path": "Databricks LakeHouse fundamentals/Databricks.md"
+    },
+    {
+      "basename": "Spark-Lambda",
+      "path": "Apache Spark and Python/Spark-Lambda.md"
+    },
+    {
+      "basename": "What is spark",
+      "path": "Apache Spark and Python/What is spark.md"
+    },
+    {
+      "basename": "Cloudera Data Warehouse",
+      "path": "Introducing the Enterprise Data Cloud/Cloudera Data Warehouse.md"
+    },
+    {
+      "basename": "Spark-Context",
+      "path": "Apache Spark and Python/Spark-Context.md"
+    },
+    {
+      "basename": "Spark-RDD",
+      "path": "Apache Spark and Python/Spark-RDD.md"
+    },
+    {
+      "basename": "Core Hadoop Ecosystem",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Core Hadoop Ecosystem.md"
+    },
+    {
+      "basename": "OLTP",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/OLTP.md"
+    },
+    {
+      "basename": "6. Describe the use and major functions of Cloudera Manager",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/6. Describe the use and major functions of Cloudera Manager.md"
+    },
+    {
+      "basename": "Kafka",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Kafka.md"
+    },
+    {
+      "basename": "Cloudera Data Plataform Overview",
+      "path": "Introducing the Enterprise Data Cloud/Cloudera Data Plataform Overview.md"
+    },
+    {
+      "basename": "Cloudera Runtime",
+      "path": "Introducing the Enterprise Data Cloud/Cloudera Runtime.md"
+    },
+    {
+      "basename": "CDP Private Cloud Plus",
+      "path": "Introducing the Enterprise Data Cloud/CDP Private Cloud Plus.md"
+    },
+    {
+      "basename": "What is Kubernetes",
+      "path": "Introducing the Enterprise Data Cloud/What is Kubernetes.md"
+    },
+    {
+      "basename": "Types of clouds cloudera",
+      "path": "Introducing the Enterprise Data Cloud/Types of clouds cloudera.md"
+    },
+    {
+      "basename": "Comparing CDP Public and Private Cloud",
+      "path": "Introducing the Enterprise Data Cloud/Comparing CDP Public and Private Cloud.md"
+    },
+    {
+      "basename": "4. Describe requirements to deploy CDP Public cloud on major cloud infrastructure providers",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/4. Describe requirements to deploy CDP Public cloud on major cloud infrastructure providers.md"
+    },
+    {
+      "basename": "1. Describe function of the main components of CDP architecture",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/1. Describe function of the main components of CDP architecture.md"
+    },
+    {
+      "basename": "5. Describe local system requirements to deploy CDP Private Cloud Base",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/5. Describe local system requirements to deploy CDP Private Cloud Base.md"
+    },
+    {
+      "basename": "3. List and describe 5 analytic experiences",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/3. List and describe 5 analytic experiences.md"
+    },
+    {
+      "basename": "8. Describe the use and major functions of Replication Manager",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/8. Describe the use and major functions of Replication Manager.md"
+    },
+    {
+      "basename": "2. Describe and compare security features of CDP Public Cloud and CDP Private Cloud Base",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/2. Describe and compare security features of CDP Public Cloud and CDP Private Cloud Base.md"
+    },
+    {
+      "basename": "7. Describe the use and major functions of Workload XM",
+      "path": "CDP Generalist Exam (CDP-0011)/Exam Questions/7. Describe the use and major functions of Workload XM.md"
+    },
+    {
+      "basename": "Control Panel",
+      "path": "Introducing the Enterprise Data Cloud/Control Panel.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Introducing the Enterprise Data Cloud/Untitled 2.md"
+    },
+    {
+      "basename": "Cloudera Data Engineering",
+      "path": "Introducing the Enterprise Data Cloud/Cloudera Data Engineering.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Introducing the Enterprise Data Cloud/Untitled 1.md"
+    },
+    {
+      "basename": "SDX",
+      "path": "Introducing the Enterprise Data Cloud/SDX.md"
+    },
+    {
+      "basename": "Kudu",
+      "path": "Introducing the Enterprise Data Cloud/Kudu.md"
+    },
+    {
+      "basename": "Apache Phoenix",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Apache Phoenix.md"
+    },
+    {
+      "basename": "HBase",
+      "path": "Introducing the Enterprise Data Cloud/HBase.md"
+    },
+    {
+      "basename": "NiFi",
+      "path": "Introducing the Enterprise Data Cloud/NiFi.md"
+    },
+    {
+      "basename": "Oozie",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Oozie.md"
+    },
+    {
+      "basename": "Impala",
+      "path": "Introducing the Enterprise Data Cloud/Impala.md"
+    },
+    {
+      "basename": "Spark",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Spark.md"
+    },
+    {
+      "basename": "YARN",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/YARN.md"
+    },
+    {
+      "basename": "Hue",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Hue.md"
+    },
+    {
+      "basename": "Hive",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/Hive.md"
+    },
+    {
+      "basename": "Pasted image 20220614161742",
+      "path": "Introducing the Enterprise Data Cloud/Pasted image 20220614161742.png"
+    },
+    {
+      "basename": "cluster",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/cluster.md"
+    },
+    {
+      "basename": "HDFS",
+      "path": "The Ultimate Hands-On Hadoop Tame your Big Data!/HDFS.md"
+    },
+    {
+      "basename": "MPP",
+      "path": "Introducing the Enterprise Data Cloud/MPP.md"
+    },
+    {
+      "basename": "Ozone",
+      "path": "Introducing the Enterprise Data Cloud/Ozone.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

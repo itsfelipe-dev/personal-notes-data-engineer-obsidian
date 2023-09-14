@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "a89462e3fdedff37",
+    "type": "split",
+    "children": [
+      {
+        "id": "8171665e8a4cdd5a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Ultimate Hands-On Hadoop Tame your Big Data!/Core Hadoop Ecosystem.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e52d8e22dc63f70",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Ultimate Hands-On Hadoop Tame your Big Data!/Kafka.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37779fa74ec1a497",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c18d3d90f6063d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49a5bf6c59ea57c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4203e1106a13544",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kaf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da15c3226cddccda",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 645
+  },
+  "right": {
+    "id": "a1ad56bc6dcbd2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a25991aec1220fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e9a44116f99769",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Ultimate Hands-On Hadoop Tame your Big Data!/Kafka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f8941f6e31a56556",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Ultimate Hands-On Hadoop Tame your Big Data!/Kafka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401,
+    "collapsed": true
+  },
+  "active": "8e52d8e22dc63f70",
+  "lastOpenFiles": [
+    "Introducing the Enterprise Data Cloud/Cloudera Data Plataform Overview.md",
+    "The Ultimate Hands-On Hadoop Tame your Big Data!/Kafka.md",
+    "The Ultimate Hands-On Hadoop Tame your Big Data!/Core Hadoop Ecosystem.md",
+    "Introducing the Enterprise Data Cloud/Cloudera Runtime.md",
+    "Introducing the Enterprise Data Cloud/CDP Private Cloud Plus.md",
+    "Introducing the Enterprise Data Cloud/What is Kubernetes.md",
+    "Introducing the Enterprise Data Cloud/Types of clouds cloudera.md",
+    "Introducing the Enterprise Data Cloud/Comparing CDP Public and Private Cloud.md",
+    "CDP Generalist Exam (CDP-0011)/Exam Questions/4. Describe requirements to deploy CDP Public cloud on major cloud infrastructure providers.md",
+    "CDP Generalist Exam (CDP-0011)/Exam Questions/1. Describe function of the main components of CDP architecture.md"
+  ]
+}

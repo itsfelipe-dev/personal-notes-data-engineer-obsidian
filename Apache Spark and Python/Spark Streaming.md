@@ -1,0 +1,5 @@
+- Analyzes continual streams of data ( like proccesing log data from a website or server )
+- Data is aggregated and analyzed at some given internal
+- Can take data fed to same port, Amazon Kinesis, HDFS, Kafka, Flume, and others 
+- Checkpoint stores state to disk periodically for fault tolerance  
+- ![[Pasted image 20230911211909.png]]

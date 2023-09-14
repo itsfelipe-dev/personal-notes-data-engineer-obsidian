@@ -1,0 +1,8 @@
+- **Ingest**
+	- Takes data form sensor as input
+- **Store**
+	- Sensor data store in large database
+- **Process**
+	- Data compressed into a usable format
+- **Analyze** 
+	- Machine learning predicts when components need replace 
