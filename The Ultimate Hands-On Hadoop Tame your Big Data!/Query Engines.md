@@ -1,4 +1,4 @@
-[[Hadoop]]
+[[_Hadoop]]
 **Query Engines**
 ![[Pasted image 20220331225741.png]]
 

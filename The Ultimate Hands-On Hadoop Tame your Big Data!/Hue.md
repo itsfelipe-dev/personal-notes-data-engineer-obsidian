@@ -5,7 +5,7 @@ It hosts the Hue applications and communicates with various servers that interfa
 
 The most important features of Hue are Job browser, Hadoop shell, User admin permissions, Impala editor, HDFS file browser, Pig editor, Hive editor, Ozzie web interface, and Hadoop API Access.
 
-Execute queries on the top the [[Hadoop]] [[cluster]]
+Execute queries on the top the [[_Hadoop]] [[cluster]]
 
 
 

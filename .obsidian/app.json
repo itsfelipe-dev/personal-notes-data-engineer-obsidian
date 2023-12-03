@@ -6,5 +6,5 @@
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./attachments"
 }
